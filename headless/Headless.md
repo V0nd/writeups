@@ -11,7 +11,7 @@ There is a form on /support
 
 ![image.png](image.png)
 
-and forbidden page on /dashboard
+and forbidden page on /dashboard (I used gobuster to find it)
 
 ![image.png](image%201.png)
 
