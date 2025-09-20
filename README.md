@@ -1,0 +1,1 @@
+These are my writeups. Some of them are briefer than others. Nowadays I try to write longer more detailed ones, where I explain how I found everything. I started to hate writeups where people just put what to do without explanation. I used to write writeups like that myself. 
